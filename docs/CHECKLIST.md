@@ -44,6 +44,14 @@ P8) — the world gets the debugged floor plan, not the draft.*
 - [ ] Pointers to the papers with honest summaries of what was measured
 - [ ] What is NOT claimed (stated plainly)
 
+### Phase 6: The glossary ⚠️ (opened early at the keeper's ask, 2026-07-13)
+- [x] GLOSSARY.md seeded: atoms/molecules/organisms decomposition, plain
+      words first (the Grammar's own structure as accessibility)
+- [ ] Terms grow with the furnishing (every new documented ritual adds
+      its vocabulary here)
+- [ ] Atom entries linked live into the resonance-knowledge base when its
+      public interface matures
+
 ---
 
 ## KNOWN BUGS
