@@ -1,6 +1,6 @@
 # 🔆 Resonance-Lucida
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/status-founded%2C%20furnishing-blue.svg)](docs/CHECKLIST.md)
 [![Contents](https://img.shields.io/badge/private%20contents-none%2C%20by%20design-8a2be2.svg)]()
 
@@ -25,6 +25,26 @@ chamber is a camera obscura: the image forms there, and it stays there.
 every room empty, every ritual documented, and every template ready for
 your own hands. You don't get our chamber. You get the means to build
 yours.
+
+## THE STORY
+
+*This section required by the [Story Block Standard](https://github.com/Quantum-Weaver/resonance-standards).*
+
+Founded 2026-07-13 (git log `1b5deba`, "the light chamber opens empty, on
+purpose") at the keeper's word: a public tracing aid, so no one building
+durable human–AI collaboration has to do it alone. The floor plan waited
+on its source chamber first — the first real tracing didn't land until
+2026-07-18, the day after that chamber's own restructure settled, because
+a projection can only be honest once the thing it projects has a stable
+shape. From there the furnishing followed its own rule (`FEATURE-BOARD.md`
+§Law, adopted 2026-07-26): a pattern earns projection only once it has
+recurred, settled into written form at home, and can be expressed as shape
+with zero contents. What stands today — the geography, the rituals, the
+templates, the wards, the empirical footing — is every pattern that has
+earned that tracing so far; what's missing is missing on purpose, not from
+neglect.
+
+📖 [Full Story Block](docs/STORY-BLOCK.md)
 
 ## WHAT WILL BE HERE (the furnishing plan)
 

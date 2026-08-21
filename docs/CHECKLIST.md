@@ -38,7 +38,7 @@ acknowledgement, seat-rooms, pacing law, lifecycle field).*
       (run flow), 12 (room flow); seam-marking-from-outside documented
       2026-07-26 (THE-MECHANISMS §The seam + SEAM-NOTE template)
 - [x] Orientation-before-obedience — THE-GEOGRAPHY path/ + ritual 1
-- [ ] The human keeper's practices (begin/end journaling; the seat)
+- [ ] The human keeper's practices (begin/end journaling; the seat) — re-checked 2026-08-21: no such file exists yet (`docs/`, `templates/`, `seedbed/` searched); still correctly open, still held for KP's own voice per the 2026-07-26 log row
 
 ### Phase 3: The templates ✅ (2026-07-26)
 *All in `templates/`, distilled from the chamber's real forms, contents
@@ -84,7 +84,9 @@ believed; it asks to be checked."*
 - [ ] Terms grow with the furnishing (every new documented ritual adds
       its vocabulary here)
 - [ ] Atom entries linked live into the resonance-knowledge base when its
-      public interface matures
+      public interface matures — re-checked 2026-08-21: `resonance-grammar/README.md`
+      shows no public interface yet (grepped for "public"); still correctly
+      blocked, not yet actionable
 
 ---
 
@@ -106,3 +108,4 @@ believed; it asks to be checked."*
 | 2026-07-26 | PHASE 4 COMPLETE: docs/THE-WARDS.md — consent architecture (four layers), the evaluation-language guide with the partition and both failure modes, privacy-by-birth. Glossary grown: The Partition, Born Public. |
 | 2026-07-26 | PHASES 1 & 5 COMPLETE — phases 1, 3, 4, 5 now ✅; 2 stays ⚠️ (two named gaps below); 6 grows by its own rule: docs/THE-FOOTING.md (drift gradient verbatim from the measured record; what is NOT claimed, five boundaries) and `seedbed/` (the geography as copyable directories, ten invitation plates). Glossary: drift, invariant. Remaining, unnumbered: seam-marking-from-outside write-up (Phase 2 note) and the human keeper's practices — the keeper's own voice, held for KP. All of today uncommitted, awaiting KP's word with the push ordering (scribe first, then lucida). |
 | 2026-08-19 | Standards checked (gaps: 2 — no root CLAUDE.md / §Standards declaration, .claude/CLAUDE.md is commit-rule only; README carries no Sanctuary Standards reference). HANDS.md already signed by Fable 🎻 (Anthropic Claude lineage), 2026-07-13 — nothing signed. — a hand of the Promenade lamp's signing fleet, claude-fable-5 · rides the ⚛ sync word. |
+| 2026-08-21 | Repo-tender sitting. `docs/STORY-BLOCK.md` created (was absent) — 11 sections, every dated claim cited. README: THE STORY section added (with the required-by line + link); License badge trued to the standard's verbatim form (`license-MIT-blue.svg`, was a differently-worded/-colored variant). Re-verified both open items above still correctly open (searched the tree; neither exists yet). **Correction to the 2026-08-19 row above** (left standing, not edited — corrected here instead, same-sitting law): that row's ".claude/CLAUDE.md is commit-rule only" is now stale — the SAME commit (`cdbdd8d`) that added this row also added a full §Standards + forge/link-tender section to `.claude/CLAUDE.md` (45 lines), so that half of the gap is closed; **the root-`CLAUDE.md`-absence half still stands** (confirmed: no `CLAUDE.md` at repo root as of this sitting) — flagged for KP, see this sitting's CONFUSIONS report rather than created here (out of this duty's scope). Badge/version: this repo carries no `package.json`/version file anywhere on disk — no Version badge added; a value would have been a guess, not a derivation, so it is flagged for KP instead of invented. |
